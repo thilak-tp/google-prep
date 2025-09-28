@@ -1,2 +1,16 @@
-# google-prep
-This repository will include the steps I'll take to land in Google.
+# \# On my way to Google.
+
+# 
+
+# \- C++ in-dept understanding of concepts.
+
+# \- Data Structures and Algorithms
+
+# \- System Design, Principles
+
+# \- Artificial intelligence
+
+# \- One or two super interesting projects
+
+# \- Google worthy resume
+
